@@ -6,6 +6,7 @@
 
 -Id | BIGINT - PRIMARY KEY, NOTNULL, UNIQUE, AUTO INCREMENT
 -Quantità | TINYINT - NOT NULL
+-Vendute | TINYINT - NOT NULL
 -Targa | VARCHAR(5) - NULL
 -Modello | VARCHAR(8) - NOT NULL
 -Copie_modello | TINYINT - NOT NULL
