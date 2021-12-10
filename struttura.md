@@ -11,7 +11,7 @@
 - Modello | VARCHAR(8) - NOT NULL
 - Copie_modello | TINYINT - NOT NULL
 - Condizione | VARCHAR(5) - NULL
-- Prezzo | DECIMALI(5,3) - NULL
+- Prezzo | DECIMALI(5,3) - NOT NULL
 - Promozione | TINYINT - NULL
 - Posti | SMALLINT - NULL
 - Marca | VARCHAR(10) - NULL
