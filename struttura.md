@@ -15,7 +15,7 @@
 - Promozione | TINYINT - NULL
 - Posti | SMALLINT - NULL
 - Marca | VARCHAR(10) - NULL
-- Anno_di_fabbricazione | YEAR - NULL
+- Anno_di_fabbricazione | YEAR - NOT NULL
 - Alimentazione | VARCHAR(10) - NOT NULL
 - Km(chilometri) | DECIMALI(6,3) - NOT NULL
 - Carrozzeria | TINYINT - NULL
